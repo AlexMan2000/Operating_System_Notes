@@ -4,7 +4,15 @@
 
 ### Virtual\&Physical Memory <a href="#ycabo" id="ycabo"></a>
 
-![](https://cdn.nlark.com/yuque/0/2023/png/12393765/1696866537963-af407919-e41c-42cd-8618-8a53632fdede.png)
+<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption><p>We have differnt </p></figcaption></figure>
+
+$$\begin{aligned}f(x) &= sss \\&=ss\end{aligned}$$
+
+
+
+
+
+&#x20;
 
 ### Address Spaces <a href="#d9pkc" id="d9pkc"></a>
 
