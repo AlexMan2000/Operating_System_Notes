@@ -6,9 +6,12 @@
 
 <figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption><p>We have differnt </p></figcaption></figure>
 
-$$\begin{aligned}f(x) &= sss \\&=ss\end{aligned}$$
-
-
+{% code title="" overflow="wrap" lineNumbers="true" %}
+```c
+int main() {
+return 0}
+```
+{% endcode %}
 
 
 
