@@ -1,6 +1,13 @@
 # Table of contents
 
-## CS61C
+## Machine Structure
 
-* [OS/VM/IO](README.md)
-* [Random Stuff](cs61c/random-stuff.md)
+* [Untitled](README.md)
+
+## Operating Systems
+
+* [Page 1](operating-systems/page-1.md)
+
+## Database Systems
+
+* [Page 2](database-systems/page-2.md)
