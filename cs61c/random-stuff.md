@@ -6,7 +6,7 @@
 
 
 
-{% code title="" overflow="wrap" %}
+{% code overflow="wrap" %}
 ```
 // Some codes
 ```
