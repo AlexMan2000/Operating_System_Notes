@@ -25,7 +25,7 @@ return 0}
 
 ### Example Computer <a href="#wyj0r" id="wyj0r"></a>
 
-<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## &#x20;<a href="#onqsq" id="onqsq"></a>
 
