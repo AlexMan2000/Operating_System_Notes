@@ -1,6 +1,6 @@
 # OS/VM/IO
 
-## Virtual Memory Concept <a href="#ak4np" id="ak4np"></a>
+Virtual Memory Concept
 
 ### Virtual\&Physical Memory <a href="#ycabo" id="ycabo"></a>
 
@@ -19,9 +19,9 @@ return 0}
 
 ### Address Spaces <a href="#d9pkc" id="d9pkc"></a>
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
-![](https://cdn.nlark.com/yuque/0/2023/png/12393765/1696866626594-2930d5e8-aa69-4e1e-bec0-e71763e8f901.png)
+
 
 ### Example Computer <a href="#wyj0r" id="wyj0r"></a>
 
